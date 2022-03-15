@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg442"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview444"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="50mm"
+     inkscape:zoom="1.1699513"
+     inkscape:cx="2.5642092"
+     inkscape:cy="211.54726"
+     inkscape:window-width="1312"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs439" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="coffee-beans"
+       transform="matrix(1.1300705,0,0,1.1300705,3.3142097,4.4143536)"
+       fill="#ffffff">
+      <path
+         d="m 14.441,14.92 c 1.918,-3.121 4.641,-5.519 7.68,-6.8 -2.641,-5.039 -7.441,-8 -12,-7.68 2.078,2.32 3.84,6.32 4.16,12.961 0.078,0.558 0.16,1.039 0.16,1.519 z"
+         id="Fill-1" />
+      <path
+         d="M 10.359,13.639 C 10.039,6.28 7.719,3.241 5.879,1.959 1.402,4.92 -0.281,11.721 2.039,18.12 c 1.84,4.961 5.602,8.402 9.602,9.519 -0.239,-1.918 -0.239,-3.918 0.16,-5.918 -0.719,-2.32 -1.281,-4.961 -1.442,-8.082 z"
+         id="Fill-3" />
+      <path
+         d="m 32.281,10.998 c -1.84,1.282 -4.16,4.321 -4.48,11.602 -0.321,6.641 -2.321,11.199 -4.879,14.32 0.32,0 0.64,0.078 0.957,0.078 4.961,0 10,-3.917 12.242,-9.839 2.32,-6.481 0.641,-13.2 -3.84,-16.161 z"
+         id="Fill-4" />
+      <path
+         d="M 27.961,9.561 H 27.16 c -4.961,0 -10,3.84 -12.238,9.84 -2.402,6.48 -0.641,13.199 3.84,16.16 2.48,-2.563 4.718,-6.563 4.957,-13.039 0.402,-6.723 2.16,-10.641 4.242,-12.961 z"
+         id="Fill-6" />
+    </g>
+  </g>
+</svg>

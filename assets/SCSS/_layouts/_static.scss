@@ -1,0 +1,47 @@
+@use '../_utilities/_mixins/media-query' as *;
+
+#how-it-works{
+  .grid{}
+  .grid-flex{
+    .stack{
+      flex: 20% 1 1;
+      max-width: 250px;
+      align-self: self-start;
+    }
+    .arrow{
+      margin-top: -50px;
+    }
+    @include mq(tablet) {
+      .arrow{
+        display: none;
+      }
+    }
+  }
+}
+#prices-detail {
+  .column {
+    .row{
+      border-radius: 3px;
+    }
+    .row:nth-child(odd) {
+      background-color: #626262;
+    }
+    .row:nth-child(even) {
+      background-color: #4e4e4e;
+    }
+    &:after{
+      content: '';
+      width: 40px;
+      height: 40px;
+      background-image: url(../assets/images/bitmap.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      display: inherit;
+      margin-top: -15px;
+      z-index: 300;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+    }
+  }
+}
