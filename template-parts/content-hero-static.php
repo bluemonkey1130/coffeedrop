@@ -6,8 +6,8 @@ $appButtons = get_field('display_app_logos');
 $appIOS = get_field('ios');
 $appAndroid = get_field('android');
 ?>
-    <section id="hero"
-             class="grid-row"
+    <section id="hero "
+             class="grid-row static"
              style="background: url(<?php echo $backgroundImage['url']; ?>) center center/cover no-repeat">
         <div class="grid align-wide has-two-columns right-wide">
             <div class="color-light-main centreLeft gap-top-500 pad-bottom-600 pad-top-600 pad-right-300">

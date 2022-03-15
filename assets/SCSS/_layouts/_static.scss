@@ -1,35 +1,55 @@
 @use '../_utilities/_mixins/media-query' as *;
+.grid-row.static {
+  @include mq(tablet) {
+    .grid {
+      padding-top: 100px;
+    }
+  }
+}
+#how-it-works {
+  .grid {
+  }
 
-#how-it-works{
-  .grid{}
-  .grid-flex{
-    .stack{
+  .grid-flex {
+    flex-wrap: wrap;
+    justify-content: center;
+
+    .stack {
       flex: 20% 1 1;
       max-width: 250px;
       align-self: self-start;
     }
-    .arrow{
+
+    .arrow {
       margin-top: -50px;
     }
+
     @include mq(tablet) {
-      .arrow{
+      .arrow {
         display: none;
+      }
+      .stack {
+        flex: 100% 1 1;
       }
     }
   }
 }
+
 #prices-detail {
   .column {
-    .row{
+    .row {
       border-radius: 3px;
     }
+
     .row:nth-child(odd) {
       background-color: #626262;
     }
+
     .row:nth-child(even) {
       background-color: #4e4e4e;
     }
-    &:after{
+
+    &:after {
       content: '';
       width: 40px;
       height: 40px;
