@@ -1,4 +1,5 @@
-##Introduction
+## Introduction
+
 This is a wordpress theme to fulfil the requirements of the brief laid out in https://github.com/imageplus/CoffeeDropWebChallenge. the live site is hosted here https://coffeedrop.georgehawthorne.co.uk/
 
 
